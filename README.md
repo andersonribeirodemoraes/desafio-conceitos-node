@@ -6,7 +6,7 @@
 Link do desafio:
 [https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
 
-## Instalação e rodando o projeto.
+## Instalação e rodando o projeto
 ```sh
 $ git clone https://github.com/andersonribeirodemoraes/desafio-conceitos-node.git
 $ cd desafio-conceitos-node  
